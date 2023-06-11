@@ -52,5 +52,7 @@
                 <filtering>true</filtering>
             </resource>
         </resources>
+
+        <finalName>EnhancedDebugStick-WorldGuard-v${project.version}</finalName>
     </build>
 </project>
